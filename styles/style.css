@@ -1,0 +1,178 @@
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+}
+
+
+.inter-font-family {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+}
+
+#logoId{
+    color: #4E47FF;
+    font-weight: 800;
+}
+
+#body-width {
+    max-width: 1440px;
+    margin: 0 auto;
+     background-color: #e5e8ec5b;
+}
+.btn-primary {
+    background-color: #4E47FF;
+    color: white;
+    border: none;
+    padding: 12px 36px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.navbar-style {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1140px;
+    margin: auto;
+    padding: 50px 0;
+
+}
+
+.banner-text{
+  text-align: center;
+  width: 905px;
+  margin: auto;
+}
+#heading-text{
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 37px;
+}
+
+.banner {
+ background-image: url('../ui/Hero-bg.png');
+ background-size: full;
+ min-height: 698px;
+ min-width: 1440px;
+    
+}
+
+#body-width {
+    max-width: 80% ;
+    margin: 0 auto;
+}
+.action-section{
+  height: 560px;
+  display: flex;
+  justify-content: space-between;
+  width: 1140px;
+  margin: auto;
+;
+  align-items: center;
+}
+#text-div{
+  align-items: center;
+  width: 317px;
+}
+#action-para{
+  color: #252432;
+  opacity: 50%;
+}
+.image-action{
+  width: 403px;
+  height: 328px;
+  border-radius: 48px;
+}
+#user-section{
+  background-color: #4d47ff1d;
+  width: 1140px;
+  margin: auto ;
+  border-radius: 24px;
+  padding: 50px 142px;
+  height: 306px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.user-heading{
+  text-align: center;
+  color: black;
+  opacity: 100%;
+
+}
+.action-heading{
+  color: #4E47FF;
+  font-weight: 800;
+  font-size: 80px;
+  opacity: 100%;
+}
+.review-section{
+  width: 1140px;
+  margin: auto;
+  margin-top: 8x0px;
+  margin-bottom: 60px;
+  height: 324px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+#reviewh{
+  text-align: center;
+  margin-bottom: 40px;
+}
+.stat{
+  display: flex;
+  justify-content: space-evenly;
+}
+.our-user{
+  height: 243px;
+  background-color: rgba(255, 255, 255, 0.50);
+  border-radius: 14px;
+  width: 366px;
+}
+.use{
+  margin-top: -80px;
+  opacity: 50%;
+}
+.review{
+  display: flex;
+  align-items: center;
+}
+.various-review{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  gap: 20px;
+}
+.avatar{
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  margin-right: 24px;
+}
+
+/* focus better */
+
+#focus{
+  text-align: center;
+}
+
+#focus-better{
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+  margin-top: 137px;
+  margin-bottom: 137px;
+  height: 696px;
+  border-radius: 20px;
+}
+#focus-img{
+  justify-content: center;
+  text-align: center;
+  margin-top: 30px;
+}
+.newsletter-div{
+  background-color: #4d47ff1d;
+  height: 292px;
+  border-radius: 20px;
+  margin-bottom: 100px;
+  display: flex;
+}
