@@ -169,10 +169,64 @@
   text-align: center;
   margin-top: 30px;
 }
+
+#touch{
+  width: 1140px;
+  background-color: #3d3c4f1d;
+  margin: auto;
+}
 .newsletter-div{
-  background-color: #4d47ff1d;
-  height: 292px;
   border-radius: 20px;
   margin-bottom: 100px;
   display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.form-sect{
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#touch-head{
+  text-align: left;
+  align-items: center;
+  margin-top: 40px;
+  font-size: 64px;
+}
+.email{
+  padding: 15px;
+  border-color: none;
+  border: 1px solid #CCCCCC;
+  border-radius: 10px;
+}
+#massage{
+   border-color: none;
+  border: 1px solid #CCCCCC;
+  padding: 40px 20px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+#footer{
+  text-align: center;
+  align-items: center;
+  padding-bottom: 70px;
+
+}
+#list{
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+#footer-logo{
+  color: #4E47FF;
+  font-weight: 800;
+  font-size: 120px;
+  margin-bottom: -25px;
+  
 }
